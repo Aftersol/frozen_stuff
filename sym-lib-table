@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name RP2040)(type Legacy)(uri ${KIPRJMOD}/lib/MCU_RaspberryPi_RP2040.lib)(options "")(descr ""))
+  (lib (name PCM5101A)(type Legacy)(uri ${KIPRJMOD}/lib/PCM5101A.lib)(options "")(descr ""))
+  (lib (name RPi_Pico)(type Legacy)(uri ${KIPRJMOD}/lib/RPi_Pico.lib)(options "")(descr ""))
+)

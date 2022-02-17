@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name RP2040)(type KiCad)(uri ${KIPRJMOD}/lib/RP2040_minimal.pretty)(options "")(descr ""))
+  (lib (name PCM5101A)(type KiCad)(uri ${KIPRJMOD}/lib/PCM5101A.pretty)(options "")(descr ""))
+  (lib (name RPi_Pico)(type KiCad)(uri ${KIPRJMOD}/lib/RPi_Pico.pretty)(options "")(descr ""))
+)
